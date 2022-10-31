@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 
 public class CustomListTest {
-    
+
     private CustomList list;
     /**
      * create a mocklist for my citylist
